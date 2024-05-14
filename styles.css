@@ -1,4 +1,18 @@
+
+    
+.card {
+    background-color: beige;
+    width: 550px;   
+    margin: 150px auto;
+    padding-top: 30px;
+    padding-bottom: 80px;
+    box-shadow: 20px 20px 5px darkgray;
+
+}
+
+
 #header1 {
+    margin-top: 0px;
     font-family: "Brush Script MT",cursive;
     font-size: 80px;
 
